@@ -1,5 +1,5 @@
 ### yooo
-the typa shit im on rn:
+the typa things im on rn:
 - golang
 - some gui w/ golang (+ gtk binds)
 - might return to c# when cosmos gets good
